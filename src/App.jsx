@@ -3,7 +3,6 @@ import ContactForm from "./components/Contactform/ContactForm";
 import SearchBox from "./components/SearchBox/SearchBox";
 import ContactList from "./components/ContactList/ContactList";
 import { nanoid } from "nanoid";
-import "modern-normalize/modern-normalize.css";
 import "./App.css";
 
 function App() {
